@@ -1,0 +1,2 @@
+# SmartBetAI
+bot apuestas
